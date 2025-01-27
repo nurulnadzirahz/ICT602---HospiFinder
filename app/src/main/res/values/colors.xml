@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="my_primary">#007BFF</color>  <!-- Blue color for primary -->
+    <color name="my_secondary">#5BC0DE</color>  <!-- Light blue for secondary -->
+    <color name="my_ternary">#1E90FF</color>  <!-- Dodger blue for tertiary -->
+
+
+
+</resources>
